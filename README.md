@@ -3,7 +3,7 @@
 
 ## Memo
 
-- [] Set Windows environment variables permanently
+- [ ] Set Windows environment variables permanently
 
 ``` cmd
 SETX LINE_CHANNEL_SECRET "AAA"
