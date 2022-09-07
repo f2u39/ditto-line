@@ -1,9 +1,16 @@
 # Ditto Line
 
-
 ## Memo
 
-- [ ] Set Windows environment variables permanently
+### Set environment variables
+
+#### Linux
+
+``` cmd
+export LINE_CHANNEL_SECRET=AAA
+```
+
+#### Windows
 
 ``` cmd
 SETX LINE_CHANNEL_SECRET "AAA"
